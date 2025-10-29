@@ -4,14 +4,14 @@
 ## Company Vision
 ***Integrating technology of tomorrow, today.***
 
-Our mission is to depploy fully reliable and autonomous solutions to bring commpanies into the 21st century. By developing adaptable and personal robotic and intelligent systems, we believe that the world can become a simpler, smarter, and safer world. 
+Our mission is to deploy fully reliable and autonomous solutions to enable companies to thrive in the autonomous era. By developing adaptable and customizable robotic and intelligent systems, we can create a simpler, smarter, and safer world. 
 
 In the long term, FORIS seeks to partner with innovative robotic labs to harness the power of autonomous systems and embedded AI. 
 
 ## Name & Brand
 **FORIS** := **F**ull-stack **O**perations in **R**obotics & **I**ntelligent **S**ystems
 
-In Latin, *foris* means door, and we believe that we are creating that entry into a new era. 
+In Latin, *foris* means door - we're creating the entry into a new era of autonomous intelligence. 
 
 ## Service Offerings
 Software
