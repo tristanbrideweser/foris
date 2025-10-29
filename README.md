@@ -1,5 +1,5 @@
 # FORIS
-### **F**ull-Stack **O**perations in **R**obotics & **I**ntelligent **S**ystems
+### **F**ull-stack **O**perations in **R**obotics & **I**ntelligent **S**ystems
 
 ## Company Vision
 ***Integrating technology of tomorrow, today.***
@@ -9,9 +9,14 @@ Our mission is to depploy fully reliable and autonomous solutions to bring commp
 In the long term, FORIS seeks to partner with innovative robotic labs to harness the power of autonomous systems and embedded AI. 
 
 ## Name & Brand
+**FORIS** := **F**ull-stack **O**perations in **R**obotics & **I**ntelligent **S**ystems
 
+In Latin, *foris* means door, and we believe that we are creating that entry into a new era. 
 
 ## Service Offerings
+Software
+
+Hardware
 
 ## Target Market 
 
