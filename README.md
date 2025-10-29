@@ -2,7 +2,7 @@
 ### **F**ull-stack **O**perations in **R**obotics & **I**ntelligent **S**ystems
 
 ## Company Vision
-***Integrating technology of tomorrow, today.***
+***Your gateway to intelligent automation.***
 
 Our mission is to deploy fully reliable and autonomous solutions to enable companies to thrive in the autonomous era. By developing adaptable and customizable robotic and intelligent systems, we can create a simpler, smarter, and safer world. 
 
